@@ -1,4 +1,3 @@
-var player = new Playerjs({id:"player",    
     file:[
 {"title":"A Origem da Vida","file":"https://www.youtube.com/watch?v=ATiea9k8XaU"},
 {"title":"O Nascimento","file":"https://www.youtube.com/watch?v=LDik8v-tp7A"},
@@ -27,4 +26,3 @@ var player = new Playerjs({id:"player",
 {"title":"A Idade do Homem","file":"https://www.youtube.com/watch?v=Lip-TQk8XhU"},
 {"title":"A Vida e o Sonho","file":"https://www.youtube.com/watch?v=cnnpKfL_RpU"}
    ]
-});
